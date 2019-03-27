@@ -1,0 +1,10 @@
+{
+  "Logging": {
+    "LogLevel": {
+      "Default": "Debug",
+      "MyWebsite": "Trace",
+      "System": "Error",
+      "Microsoft": "Error"
+    }
+  }
+}
